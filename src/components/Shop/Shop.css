@@ -1,0 +1,20 @@
+.shop {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.shop-details {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    margin-left: 50px;
+    border-right: 1px solid lightgray;
+}
+.search-box {
+    background-color: lightslategrey;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+.input-field {
+    line-height: 25px;
+    width: 500px;
+}

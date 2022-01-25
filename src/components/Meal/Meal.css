@@ -1,0 +1,25 @@
+.meal {
+    /* display: flex; */
+    padding-bottom: 5px;
+    background-color: lightgray;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-right: 10px;
+}
+.img {
+    padding-top: 10px;
+    width: 200px;
+}
+.meal-details {
+    margin-left: 10px;
+}
+.btn-regular {
+    background-color: goldenrod;
+    width: 150px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    line-height: 20px;
+    cursor: pointer;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
